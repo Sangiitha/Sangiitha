@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Sangeetha S 👋
 
-<!--
-**Sangiitha/Sangiitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Graduate (2025) | 💻 Frontend Developer | 🤖 ML Enthusiast
 
-Here are some ideas to get you started:
+## 🙋‍♀️ About Me
+- 🌱 Currently improving my JavaScript and React.js skills
+- 🔍 Open to Fresher Job / Internship Opportunities
+- 💡 Interested in Frontend Development and Machine Learning
+- 📍 Based in Chennai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Java, C, Python
+- **Frontend:** HTML5, CSS3
+- **ML:** Random Forest, XGBoost, CatBoost, LightGBM
+- **Tools:** GitHub, VS Code
+
+## 🚀 Projects
+### 🔐 Malicious URL Detection
+- ML project to detect malicious URLs
+- Algorithms: Random Forest, XGBoost, CatBoost, LightGBM
+
+### 🌾 Harvest Hub
+- [Add your description here]
+
+### 🛍️ Single Product Showcase
+- Responsive frontend product showcase page
+- Built with HTML and CSS
+
+## 📫 Connect With Me
+- LinkedIn: [your linkedin link]
+- Email: [your email]
+
+⭐ "Every expert was once a beginner. Keep building, keep learning!"
